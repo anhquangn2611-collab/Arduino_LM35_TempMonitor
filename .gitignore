@@ -1,0 +1,10 @@
+# Arduino
+*.elf
+*.hex
+build/
+.vscode/
+*.pdsbak
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
